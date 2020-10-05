@@ -1,0 +1,30 @@
+{
+  "name": "resturantpage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "winnie otieno",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^4.3.0",
+    "file-loader": "^6.1.0",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winnieotieno770/resturantpage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/winnieotieno770/resturantpage/issues"
+  },
+  "homepage": "https://github.com/winnieotieno770/resturantpage#readme",
+  "description": ""
+}
